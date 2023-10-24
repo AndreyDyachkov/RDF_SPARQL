@@ -1,5 +1,5 @@
 # RDF_SPARQL
-T4 project knowledge base: Project_knowledge_base_v1.n3
+T4 project knowledge base (similar to IDEF0 diagram): Project_knowledge_base_v1.n3
 
 Quering the knowledge base and visualization: RDF_SPARQL_T4_project.ipynb
 
